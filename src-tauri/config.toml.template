@@ -1,0 +1,27 @@
+[[beds]]
+id = "sftp-bed"
+name = "SFTP 图床"
+type = "sftp"
+host = ""
+port = 22
+username = ""
+password = ""
+remote_dir = ""
+image_url = ""
+
+[[beds]]
+id = "openlist-bed"
+name = "Openlist 图床"
+type = "openlist"
+url = ""
+username = ""
+password = ""
+remote_dir = ""
+image_url = ""
+
+[[beds]]
+id = "local-bed"
+name = "本地图床"
+type = "local"
+local_dir = ""
+
